@@ -4,6 +4,8 @@
  */
 package javacud.view;
 
+import javacrud.model.Utilisateur;
+import javacrud.control.UtilisateurDAOImp;
 /**
  *
  * @author s.lussiez
